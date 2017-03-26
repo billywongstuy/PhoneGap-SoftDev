@@ -1,0 +1,50 @@
+/*
+---------------
+INDEX
+---------------
+*/
+
+
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    border: 5px solid green;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+
+/*
+-----------------
+JS PAGE
+-----------------
+*/
+
+.alert {
+    border: 5px solid red;
+    background-color: pink;
+    display: inline-block;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.fonting {
+    border: 5px solid green;
+    color: purple;
+    padding: 10px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+.inputs {
+    font-size: 16px;
+}
